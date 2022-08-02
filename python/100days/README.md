@@ -1,5 +1,5 @@
 # 100 Days of Python
-Another collection of solutions to the "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course on Udemy.
+Another collection of solutions to the ["100 Days of Code: The Complete Python Pro Bootcamp for 2022"](https://www.udemy.com/course/100-days-of-code/) course on Udemy.
 
 ## Beginner (Days 1 -- 14)
 <b>Day   1</b> - [Working with Variables](./ipynb_notebooks/day001.ipynb), [Band name generator](./bandname.py)
@@ -26,7 +26,7 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 ### Day  19 - Instances, State, and Higher Order Functions
 ### Day  20 - Snake Game Part 1: Animation & Coordinates
 ### Day  21 - Snake Game Part 2: Inheritance & List Slicing
-### Day  22 - Pong: THe Arcade Game
+### Day  22 - Pong: The Arcade Game
 ### Day  23 - Capstone Project: Turtle Crossing
 ### Day  24 - Files, Directories, and Paths
 ### Day  25 - CSV Data and the Pandas Library
