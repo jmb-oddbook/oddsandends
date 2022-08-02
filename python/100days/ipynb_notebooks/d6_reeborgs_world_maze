@@ -1,0 +1,18 @@
+# can be further improved
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while front_clear():
+    move()
+turn_left()
+
+while not at_goal():
+    if right_clear():
+        turn_right()
+        move()
+    elif front_clear():
+        move()
+    else:
+        turn_left()
