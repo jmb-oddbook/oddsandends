@@ -5,11 +5,12 @@ Another collection of solutions to the ["100 Days of Code: The Complete Python P
 <b>Day   1</b> - [Working with Variables](./ipynb_notebooks/day001.ipynb), [Band name generator](./bandname.py)
 <br><b>Day   2</b> - [Data Types and String Manipulation](./ipynb_notebooks/day002.ipynb), [Tip calculator](./tipcalc.py)
 <br><b>Day   3</b> - [Control Flow and Logical Operators](./ipynb_notebooks/day003.ipynb), [Text-based adventure](./treasure.py)
-<br><b>Day   4</b> - [Randomisation and Lists, Simple Rock Paper Scissors game](./ipynb_notebooks/day004.ipynb)
-<br><b>Day   5</b> - [Loops, Simple password generator](./ipynb_notebooks/day005.ipynb)
+<br><b>Day   4</b> - [Randomisation and Lists](./ipynb_notebooks/day004.ipynb), [Simple Rock Paper Scissors game](./rockpaper.py)
+<br><b>Day   5</b> - [Loops, Simple password generator](./ipynb_notebooks/day005.ipynb), [FizzBuzz](./fizzbuzz.py)
 <br><b>Day   6</b> - Functions & Karel, [Fun in Reeborg's World](./ipynb_notebooks/day006_reeborgs_world_maze), see also [https://reeborg.ca/reeborg.html](https://reeborg.ca/reeborg.html)
+<br><b>Day   7</b> - [Hangman](./hangman.py)
 
-### Day   7 - Hangman
+
 ### Day   8 - Function Parameters & Caesar Cipher
 ### Day   9 - Dictionaries, Nesting, and the Secret Auction
 ### Day  10 - Functions with Outputs
