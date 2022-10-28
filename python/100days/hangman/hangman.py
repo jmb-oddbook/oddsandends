@@ -1,3 +1,7 @@
+# ------------------------------------
+# From Angela Yu's "100 Days of Code"
+# ------------------------------------
+
 # Hangman
 import random
 from hangman_art import logo, stages
@@ -5,7 +9,7 @@ from hangman_art import logo, stages
 print(logo)
 
 # Get a random word
-word_list = open("suppl/test.txt", "r").read().splitlines()
+word_list = open("dict.txt", "r").read().splitlines()
 
 chosen_word = random.choice(word_list).lower()
 print(chosen_word)

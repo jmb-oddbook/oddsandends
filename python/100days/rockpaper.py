@@ -1,3 +1,7 @@
+# ------------------------------------
+# From Angela Yu's "100 Days of Code"
+# ------------------------------------
+
 # Rock, Paper, Scissors Game
 
 import random

@@ -1,3 +1,7 @@
+# ------------------------------------
+# From Angela Yu's "100 Days of Code"
+# ------------------------------------
+
 # Generate a name for a band
 
 #1. Create a greeting for your program.

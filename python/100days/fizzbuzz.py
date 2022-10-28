@@ -1,3 +1,7 @@
+# ------------------------------------
+# From Angela Yu's "100 Days of Code"
+# ------------------------------------
+
 # The FizzBuzz Problem
 
 # For numbers 1 to 100
