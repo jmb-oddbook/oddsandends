@@ -9,9 +9,9 @@ Another collection of solutions to the ["100 Days of Code: The Complete Python P
 <br><b>Day   5</b> - [Loops, Simple password generator](./ipynb_notebooks/day005.ipynb), [FizzBuzz](./fizzbuzz.py)
 <br><b>Day   6</b> - Functions & Karel, [Fun in Reeborg's World](./ipynb_notebooks/day006_reeborgs_world_maze), see also [https://reeborg.ca/reeborg.html](https://reeborg.ca/reeborg.html)
 <br><b>Day   7</b> - [Very simple Hangman Game](./hangman/hangman.py)
+<br><b>Day   8</b> - Function Parameters & [Caesar Cipher](./caesar.py)
 
 
-### Day   8 - Function Parameters & Caesar Cipher
 ### Day   9 - Dictionaries, Nesting, and the Secret Auction
 ### Day  10 - Functions with Outputs
 ### Day  11 - Capstone Project: Blackjack
