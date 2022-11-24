@@ -22,13 +22,11 @@ again = "yes"
 
 while again == "yes":
     direction = input("Type 'encode', or 'decode': ")
+    # ToDo: regex filter for punctuation
     message = input("Type your message: ").lower()
     shift = int(input("Type the shift number: "))
     
     # Output
-    if direction == "encode":
-        print("The encoded message is " + caesar_cypher(direction, message, shift))
-    else:
-        print("The decoded message is " + caesar_cypher(direction, message, shift))
+    print(f"The {direction}d message is " + caesar_cypher(direction, message, shift))
     
     again = input("Type 'yes' if you want to go again. Otherwise type 'no'.")
