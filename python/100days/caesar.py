@@ -30,4 +30,5 @@ while again == "yes":
     print(f"The {direction}d message is " + caesar_cypher(direction, message, shift))
     
     again = input("Type 'yes' if you want to go again. Otherwise type 'no'.")
-    print("Goodbye!")
+
+print("Goodbye!")
